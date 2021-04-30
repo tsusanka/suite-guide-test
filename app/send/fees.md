@@ -1,0 +1,4 @@
+# Fees
+
+How fees work.
+
